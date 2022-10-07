@@ -1,17 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.6ca1a89e.css",
-    "main.js": "/static/js/main.77221d4d.js",
+    "main.js": "/static/js/main.d82edfe9.js",
     "static/js/787.d7a81f0f.chunk.js": "/static/js/787.d7a81f0f.chunk.js",
+    "static/media/tolkien.svg": "/static/media/tolkien.4f88f2bae521b11f207b061712273823.svg",
+    "static/media/details.svg": "/static/media/details.a342989c885088cf113787a750608abe.svg",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "static/media/list.svg": "/static/media/list.a0b5117920a274bd13c4.svg",
+    "static/media/r1n1.svg": "/static/media/r1n1.fcf1bdf1f098e0335ffc9908f4fd22f3.svg",
+    "static/media/instagram.svg": "/static/media/instagram.6d5171d58481634549447b4387ccfe0c.svg",
+    "static/media/list.svg": "/static/media/list.a0b5117920a274bd13c45ae0d7f0e71b.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.187b26e281548321e37cea6b1d97d41e.svg",
+    "static/media/twitter.svg": "/static/media/twitter.2ee4044b34e347393a7c55e49a299d8a.svg",
+    "static/media/youtube.svg": "/static/media/youtube.d8e9a2a983e7f655898aa688aed9e75b.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.b36a49003fed3e09395ae435ba9a728a.svg",
+    "static/media/phone.svg": "/static/media/phone.9217c6de896bcfe1c849e0b6bd8e08ae.svg",
+    "static/media/facebook.svg": "/static/media/facebook.f9b1edff2baffd70adbfa53037856b56.svg",
     "main.6ca1a89e.css.map": "/static/css/main.6ca1a89e.css.map",
-    "main.77221d4d.js.map": "/static/js/main.77221d4d.js.map",
+    "main.d82edfe9.js.map": "/static/js/main.d82edfe9.js.map",
     "787.d7a81f0f.chunk.js.map": "/static/js/787.d7a81f0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ca1a89e.css",
-    "static/js/main.77221d4d.js"
+    "static/js/main.d82edfe9.js"
   ]
 }
